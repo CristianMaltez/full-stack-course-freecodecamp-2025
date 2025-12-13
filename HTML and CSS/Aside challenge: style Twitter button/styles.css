@@ -1,0 +1,12 @@
+.follow-btn {
+    display: block;
+    width: 100px;
+    margin: 0 auto 0 auto;
+    border: 1px solid #cfd9de;
+    color: #0f1419;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    background: white;
+    border-radius: 20px;
+    text-align: center;
+}
