@@ -1,6 +1,6 @@
 body {
     font-family: 'Happy Monkey', sans-serif;
-    background: #a2d2ff;
+    background: linear-gradient(#a2d2ff, #EFB0C9);
     color: #ffffff;
     text-align: center;
 }
@@ -57,7 +57,8 @@ p {
 }
 
 .gift-img {
-    background-image: url('images/gift-cover.jpg');
+    /* background-image: url('images/gift-cover.jpg'); */
+    background: linear-gradient(lightblue, white);
     margin: 0 auto;
     width: 400px;
     height: 400px;
